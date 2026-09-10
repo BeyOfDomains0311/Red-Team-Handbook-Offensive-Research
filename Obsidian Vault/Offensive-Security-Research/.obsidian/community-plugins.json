@@ -6,5 +6,7 @@
   "table-editor-obsidian",
   "omnisearch",
   "url-into-selection",
-  "auto-note-mover"
+  "auto-note-mover",
+  "templater-obsidian",
+  "obsidian-linter"
 ]
